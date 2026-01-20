@@ -1,1 +1,7 @@
 # BIG-DATA-PRAKTIKUM-5-7
+<br>
+
+|Nama|NIM|
+|----|---|
+|GUSTI ARDHYA|312310624|
+
